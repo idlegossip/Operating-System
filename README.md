@@ -1,4 +1,4 @@
-# #0969DA'Operating-System
+# '#0969DA'Operating-System
 ### CPU (Central Processing Unit):
 1. The CPU is the primary component responsible for executing instructions and performing calculations in a computer.
 1. It fetches instructions from the computer's memory, decodes them, and then executes them.
