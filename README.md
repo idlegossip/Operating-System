@@ -1,5 +1,5 @@
 # Operating-System
-- ### CPU (Central Processing Unit):
+- ### **CPU (Central Processing Unit):**
   1. The CPU is the primary component responsible for executing instructions and performing calculations in a computer.
   1. It fetches instructions from the computer's memory, decodes them, and then executes them.
   1. The CPU consists of multiple cores, each capable of executing instructions independently, which enables multitasking.
